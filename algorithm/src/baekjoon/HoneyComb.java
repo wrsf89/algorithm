@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class HoneyComb {
 
 	public static void main(String[] args) {
-		//벌집
+		// 벌집
 		// 1 (6증가)-> 7 (12증가)-> 19 (18증가)-> 37 (24증가)-> 61
 		Scanner scan = new Scanner(System.in);
 		int input = scan.nextInt(); // 방 입력 변수
