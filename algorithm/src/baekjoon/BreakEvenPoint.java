@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BreakEvenPoint {
 
 	public static void main(String[] args) {
-		// 손익분기점
+		//손익분기점
 		Scanner scan  = new Scanner(System.in); //스캐너
 
 		int fixed = scan.nextInt(); //고정비용 입력		
